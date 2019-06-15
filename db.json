@@ -1,6 +1,7 @@
 {
   "colas":[
         {
+          "id":1,
             "nombre":"Odontologia",
             "creador":"Valerie Luna",
             "permiso":"Administrador",
@@ -9,6 +10,7 @@
             ]
         },
         {
+          "id":2,
             "nombre":"Farmacia",
             "creador":"Jon Doe",
             "permiso":"Editor",
@@ -17,6 +19,7 @@
             ]
         },
         {
+          "id":3,
             "nombre":"Banco",
             "creador":"The Boss",
             "permiso":"Gestor",
@@ -25,6 +28,7 @@
             ]
         },
         {
+          "id":4,
             "nombre": "Odontologia Clinica",
             "creador":"Valerie Luna",
             "permiso":"Administrador",
